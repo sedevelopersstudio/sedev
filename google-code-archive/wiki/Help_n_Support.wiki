@@ -1,0 +1,105 @@
+#summary Help and Support for this project and products.
+#labels Featured,Phase-Requirements,Phase-Support,Phase-QA,Phase-Implementation,Phase-Design
+
+= Introduction =
+
+This page will hopefully cover all you may need to read or consult about while using:
+  * SEDev Patch Studio 1.2 RC4 ( Some data may be reference for R2 or later ONLY )
+
+= Details =
+
+<i>In-depth things that is important for this project.</i> <font color="opaque">Should be read by every user of product ( SEDev Patch Studio 1.2 )!</font>
+
+<hr/>
+
+== Licensing ==
+
+Legal questions and topics of this project:
+
+ As some media content is licensed under CC 3.0, it is allowed to be mixed with GPL license. Currently Developers are preparing to meet GNU Public License standards for Plug-in / Add-ons used by this Application.
+
+=== Components ===
+
+Components has been with mixed licences, that include:
+  * Creative Commons 2.0 NC-ND
+  * Creative Commons 3.0 NC-BY
+  * Creative Commons 3.0 BY-SA for Wiki content copied to Product.
+  * Borland / CodeGear / Embarcadero Corporation for VCL
+  * Sony Ericsson Mobile Communications AB
+
+<hr/>
+
+== Contribution ==
+
+=== Documentation ===
+
+ You are very welcome to help developer(s) with translations in both _UserGuides_, and also in Main application translation. This product is delivered to you with [http://en.wikipedia.org/wiki/Free_Software_Foundation FSF], [http://en.wikipedia.org/wiki/Freeware Freeware] and [http://en.wikipedia.org/wiki/Open_source OpenSource] message in mind, so they are earned help from you too, dear reader of this Wiki page. Below is the link to current English UserGuide document:
+
+ _*NOTE:* Currently translated documents ( since R53 ) ARE HIGHLY RECOMMENDED TO BE SAVED in ODT format!_
+
+ * http://sedev.googlecode.com/files/UserGuide_EN-uk.odt
+
+ _NOTE: The translations are intended to meet FLOSS standards ( http://www.globaltranslation.com/services/guide/ ).
+
+=== Plug-ins / Add-ons ===
+
+ You are welcome to help developer(s) with new functionality provided by Plug-ins / Addons Framework. Currently the system is under testing, so any further informatio0n is available only through personal contact with the Developer(s) of this Project. Please proceed with this link for more information and example:
+
+ * http://sedev.googlecode.com/files/SEDEV_RPG_XClass.xml
+
+ _*NOTE:* Currently written files ARE HIGHLY RECOMMENDED TO BE SAVED in XML format!_
+
+=== Splash Screens ===
+
+ You are welcome to create new splash screens if you wish. There are rules that must be met to ensure compatibility with SEDev patch Studio 1.2 ( and later ). Please proceed with this link for more information and example:
+
+ * [Community]
+
+=== Donations ===
+
+No official donations are asked or needed due licensing issues. If you still have some specific interest, you can contact me through email: mailto://hx@inbox.lv
+
+If you have other wishes, you can proceed directly: [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BLC2P5B987NS2&lc=LV&item_name=Linards%20LIepi%c5%86%c5%a1&item_number=rpg_donation&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif], or _buy one of Products my occasional employer - http://www.zeltazaptes.lv produces!_ :D
+
+<font color="green">Any amount of money you can afford to share is extremely welcome.</font>
+
+<hr/>
+
+== News ==
+
+Stuff you might be interested in ( and more to come! ):
+ * Volume 1 : Official Review Video: http://www.youtube.com/watch?v=GZ3W9LdTIfI
+ * Volume 2 Status: Pending.
+
+=== Changelogs ===
+
+You are also welcome to read CHANGELOG.txt after new release has been published, but, please note, that this changelog will be not made often and will most likely be skipped in Nightly / Daily / Weekly Builds.
+
+To download and view latest available CHANGELOG, please go to [http://code.google.com/p/sedev/downloads/list Downloads] section.
+
+=== Announcements ===
+
+Currently, this information can be found on Facebook, using this link: http://www.facebook.com/#!/event.php?eid=162813317080504
+
+Also, you can find Announcement threads in these forums:
+ * http://www.mobilefree.ru
+ * http://www.se-nse.com
+ * http://www.se-developers.net
+ * http://www.akshayy.com/sonyercisson/
+ * http://www.topsony.com
+
+<hr/>
+
+== Support ==
+
+If you need special assistance, you may try to contact Lead Developer - Linards Liepiņš -  through email: mailto://hx@inbox.lv
+
+== Other Ways to inform Developers ==
+
+ * Google Groups can be used to input bugs if you have got insufficient privileges in Google Code. Currently these groups are:
+  # https://groups.google.com/forum/?fromgroups#!forum/se-developers-patch-studio-12-development
+  # https://groups.google.com/forum/?fromgroups#!forum/se-developers-patch-studio-13-development
+ 
+<wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_users.xml" height="100" border="0" /><wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_partner_badge.xml" height="55" border="0" />
+
+<p>*_You may also want to leave Comments below. I cannot guarantee I will answer them personally, but still it is an option for you_* ;)</p>

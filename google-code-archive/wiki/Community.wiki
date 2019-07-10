@@ -1,0 +1,18 @@
+#summary All stuff related to SE modding community
+
+= Introduction =
+
+Place you can edit for your needs, keeping in mind main Wiki proposes!
+
+
+= Details =
+
+I am pleased to inform you that SEDev Patch Studio 1.2 RC4 build 1.0.4.13-all has been released! 
+
+Download links are available through two Public Download Servers:
+
+  * http://www.freewarefiles.com/SEDev-Patch-Studio_program_62203.html
+  * http://www.freedownloadscenter.com/Search/newsearch.php3?S_S=SEDev&Category=85036&Go=+Go!+
+  * Forums:
+  * Blogs:
+    # Lead Developers Blog.

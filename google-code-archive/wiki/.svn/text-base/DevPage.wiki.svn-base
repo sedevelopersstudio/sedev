@@ -1,0 +1,42 @@
+#summary Page for Developers proposes ONLY.
+#labels Phase-Support,Phase-QA,Phase-Requirements
+
+= Introduction =
+
+All the things related to technical and spamming stuff :)
+
+
+= Details =
+
+For any topic regarding business and future plans in Sony Ericsson Community-driven Development in the terms of Application functionality, please consult listed people using link next to persons name:
+
+ Linards Liepiņš / "Free Home Development" ( unregistered commpany/trademark. Cosider as Freelancer TAG :) ) CEO / Europe Union, Baltic, Latvia: http://lv.linkedin.com/pub/linards-liepins/22/931/945
+
+General Questions related to Community Development are addressed in:
+
+ https://groups.google.com/forum/#!forum/se-developers-patch-studio-12-development
+
+ In-Depth Questions, regarding:
+
+  Plug-ins / Add-ons - Google Groups hosted mailing-list. [https://groups.google.com/forum/#!forum/se-developers-patch-studio-13-development-optional Documentation].
+  
+  Splash Screens - Google Groups hosted mailing-list. [https://groups.google.com/forum/#!forum/se-developers-patch-studio-12-development-splash Documentation].
+
+== Question of a day ==
+
+ * Workarounds for CHM opening issues because of: http://support.microsoft.com/kb/896054/
+
+== Need of a week ==
+
+ * Web Binary [XML] port to [Delphi] from this C library: https://libwbxml.opensync.org/
+
+ _Please contact developer(s) personally if you are interested in this port to become reality!_
+
+== Challenging projects ==
+
+ * Port from [Delphi] ( for [Win32] ) to [Lazarus] IDE ( for multi-platform and Multi-architecture ) builds.
+ * Multi-touch / Gestures support in Windows 7 and later OS. Additional, ported version may contain uTouch support for Ubuntu.
+----
+== Android ==
+
+ Anyone? :D
